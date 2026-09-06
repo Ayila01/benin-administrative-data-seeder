@@ -32,3 +32,6 @@ Département → Commune → Arrondissement → Village / Quartier de ville
 ## Source des données
 
 Données administratives issues de l'INSAE.
+
+## Auteur
+Ayila KOUKPOLOU
